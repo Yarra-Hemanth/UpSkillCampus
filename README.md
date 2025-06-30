@@ -10,15 +10,15 @@ upskillcampus/
 ├── turbofan_rul_prediction/ # Project 1: Predictive Maintenance  
 │ ├── data/ # FD001 dataset (NASA C-MAPSS)  
 │ ├── notebook.ipynb # LSTM-based RUL prediction  
-│ ├── model.png # Model architecture diagram
+│ ├── model.png # Model architecture diagram  
 | └── Turbofan_RUL_Final_Report.pdf
 │
 ├── mining_quality_prediction/ # Project 2: Mining Process Quality Prediction  
 │ ├── data/ # Mining dataset (CSV)  
 │ ├── notebook.ipynb # XGBoost-based regression pipeline  
-│ ├── shap_plot.png # SHAP summary plot  
-| └── Mining_Quality_Report.pdf 
-│
+│ ├── shap_plot.png # SHAP summary plot    
+| └── Mining_Quality_Report.pdf   
+│  
 └── README.md  
 
 
@@ -35,8 +35,6 @@ upskillcampus/
   - Alert simulation based on predicted RUL
   - Visualizations for predicted vs actual RUL
 
-📄 Report: [`reports/Turbofan_RUL_Report.docx`](./reports/Turbofan_RUL_Report.docx)
-
 ---
 
 ## 🏭 Project 2: Mining Process Quality Prediction
@@ -49,8 +47,6 @@ upskillcampus/
   - Feature engineering with lag and rolling stats
   - SHAP interpretability for model transparency
   - RMSE: ~0.24, R² Score: ~0.96
-
-📄 Report: [`reports/Mining_Quality_Report.docx`](./reports/Mining_Quality_Report.docx)
 
 ---
 
