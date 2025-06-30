@@ -6,7 +6,7 @@ Welcome to the **UpskillCampus** repository! This repo contains two industry-foc
 
 ## 📁 Project Structure
 upskillcampus/  
-│
+│  
 ├── turbofan_rul_prediction/ # Project 1: Predictive Maintenance  
 │ ├── data/ # FD001 dataset (NASA C-MAPSS)  
 │ ├── notebook.ipynb # LSTM-based RUL prediction  
