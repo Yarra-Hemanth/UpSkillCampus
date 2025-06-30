@@ -11,8 +11,8 @@ upskillcampus/
 │ ├── data/ # FD001 dataset (NASA C-MAPSS)  
 │ ├── notebook.ipynb # LSTM-based RUL prediction  
 │ ├── model.png # Model architecture diagram  
-| └── Turbofan_RUL_Final_Report.pdf
-│
+| └── Turbofan_RUL_Final_Report.pdf  
+│  
 ├── mining_quality_prediction/ # Project 2: Mining Process Quality Prediction  
 │ ├── data/ # Mining dataset (CSV)  
 │ ├── notebook.ipynb # XGBoost-based regression pipeline  
